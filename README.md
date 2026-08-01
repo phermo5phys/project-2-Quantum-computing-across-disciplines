@@ -1,6 +1,6 @@
 # Q-Lab — Project 2
 
-![Q-Lab Project 2 cover](assets/github-cover.png)
+![Q-Lab Project 2 cover](github-cover.png)
 
 ## Quantum Computing, Across Disciplines
 
